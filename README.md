@@ -46,7 +46,7 @@ PHP 8.3 · Laravel · Vue · Blade · PostgreSQL · Redis (filas) · Docker · w
 
 ## Outros cases
 
-[pep-case](https://github.com/filipelira1/pep-case) · [plataforma-case](https://github.com/filipelira1/plataforma-case) · [mermaid-case](https://github.com/filipelira1/mermaid-case)
+[pep-case](https://github.com/filipelira1/pep-case) · [plataforma-case](https://github.com/filipelira1/plataforma-case) · [mermaid-case](https://github.com/filipelira1/mermaid-case) · [pacs-case](https://github.com/filipelira1/pacs-case)
 
 ---
 
