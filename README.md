@@ -28,7 +28,7 @@ Modelagem, backend, telas do admin, integrações (pagamento e mensagens) e test
 - Um serviço gravava o **valor do pagamento a partir de uma variável inexistente**: todo pagamento ficava sem valor. Achado ao ligar o painel a dados reais.
 - Uma tela mostrava **"ativo" para um cliente bloqueado**, porque a API não devolvia os campos de bloqueio. Achado testando clique a clique no navegador.
 
-Os dois viraram regra no checklist, para o mesmo tipo de erro não voltar.
+Os dois entraram no checklist de revisão de cada entrega.
 
 ## Resultado
 
