@@ -23,7 +23,7 @@ Modelagem, backend, telas do admin, integrações (pagamento e mensagens) e test
 | **Cobrança que manda no acesso** | webhook do pagamento ativa a licença; inadimplência suspende. Ninguém precisa lembrar de liberar ou bloquear. |
 | **Rastreabilidade** | mudanças no funil e nas licenças ficam em auditoria consultável. |
 
-## Bugs reais que o processo pegou
+## Dois defeitos que a conferência encontrou
 
 - Um serviço gravava o **valor do pagamento a partir de uma variável inexistente**: todo pagamento ficava sem valor. Achado ao ligar o painel a dados reais.
 - Uma tela mostrava **"ativo" para um cliente bloqueado**, porque a API não devolvia os campos de bloqueio. Achado testando clique a clique no navegador.
